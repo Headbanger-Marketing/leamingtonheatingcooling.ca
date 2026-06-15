@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leamingtonheatingcooling.ca/sitemap.xml
